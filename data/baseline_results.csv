@@ -1,0 +1,9 @@
+id,feedback,predicted_category
+1,I cannot complete my payment at checkout.,Payment
+2,I forgot my password and cannot log in.,Account
+3,The app is very slow when loading the home page.,Performance
+4,The app crashes every time I open the settings page.,Technical
+5,I love the new design and everything works well.,Other
+6,I requested a refund but have not received it yet.,Payment
+7,My account is locked and I cannot access it.,Account
+8,The app keeps showing an error message.,Technical

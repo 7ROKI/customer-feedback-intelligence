@@ -1,0 +1,45 @@
+review_id,feedback,predicted_issue_category,input_tokens,output_tokens,total_tokens,true_issue_category,correct
+499f72d1-a0b5-41ad-bc0c-82c86f9e8d40,Dependable whenever you are out of data by using a WiFi .,Performance,76.0,2.0,78.0,Other / General,False
+6082b3c5-3f83-47c4-a85d-09855d889be8,There is the bug in Snapchat my last 2 years memories are not showing,Bugs & Technical Issues,78.0,5.0,83.0,Feature Problem,False
+a9345085-07c7-4361-8c23-6c46427ab035,Verification process is bullshitttt no geolocalizzazione,Privacy / Security,75.0,4.0,79.0,Account & Login,False
+2fb821a5-48b0-4d3b-b59e-62d330edb4bd,The app will only notify me of a notification if the app is open even though it is set not to sleep. If I close it I get nothing until I open it again. It does work as it should occasionally but it's very sporadic. Samsung Galaxy A53 5G Android 13.,Performance,125.0,2.0,127.0,Feature Problem,False
+d2bb94b3-6b4f-42a2-8129-4f8de2b972de,I have an issue regards the error playing on voicemails its very upsetting..,Bugs & Technical Issues,78.0,6.0,84.0,Feature Problem,False
+3ec3dcf2-6990-4229-a2cd-ca608f87b625,"It stops working and I can't get messages or calls, also impossible to send anything. Internet connection is excellent at this time.",Performance,88.0,2.0,90.0,Bugs & Technical Issues,False
+f9d52913-c921-4527-831b-bd27e304ef21,I created new account and didn`t even chat with any single one yet and block my ph no with the message this no. is used by spammer. Are you kidding me? This one is one of the most lame app I've ever encounted,Privacy / Security,113.0,4.0,117.0,Account & Login,False
+65c909dc-9a6f-447b-b3a2-431caefdaecc,can't open,Account & Login,66.0,4.0,70.0,Bugs & Technical Issues,False
+b984c22e-fe53-4c74-87f3-adc260d44fd7,The new update with our bitmoji look trash bring back the old one,Feature Problem,78.0,3.0,81.0,Feature Request,False
+b9899983-e3e1-4175-9c93-be1c9e6c0b28,"Cant use sms for verification, bad app",Bugs & Technical Issues,72.0,5.0,77.0,Account & Login,False
+6453fbd7-c320-4fe2-9c38-7a4f78f45961,"Slow, privacy pirate, Whatsapp is much lite weight as comparison even Whatsapp is own by Facebook privacy protection is much better",Performance,86.0,1.0,87.0,Privacy / Security,False
+e53100e4-e92e-4194-a8fe-072fd24fe983,Very smooth,Performance,65.0,1.0,66.0,Other / General,False
+0fcae42d-11d4-4fe3-a3b1-a0ae95c216bd,Forcing me to use your bloated app and depreciating the 'lite' version is unacceptable.,Feature Problem,82.0,2.0,84.0,Feature Request,False
+4c9a177c-9528-4586-873a-e6df77509f50,Good the Ra Te app batter then another app,Performance,72.0,1.0,73.0,Other / General,False
+29baad40-32e9-4877-aaa3-2058ec111319,"Why the verification code not working, I have a stable internet but its always say unstable or try again, so difficult to sign in,I want to chat my Chinese friends in WeChat. Please fixed this immediately",Bugs & Technical Issues,104.0,5.0,109.0,Account & Login,False
+d0a762be-d29a-4864-bc31-d41d84459056,"Hello, after update, dark theme became totally black, bothers eyes and scares me, please take back the older lighter one. Thank you.",Feature Problem,90.0,3.0,93.0,Feature Request,False
+06b163bc-ab79-44ef-8a23-a73de5553cd5,I had to uninstalled.,Bugs & Technical Issues,68.0,6.0,74.0,Other / General,False
+e9350f0d-8b93-4a28-b272-5114a29ff6c6,Don't do business on telegram all people do is rip you off,Other / General,76.0,4.0,80.0,Privacy / Security,False
+3ec2da84-2b69-41a6-8073-7de958aa8875,Photos and videos quality problem,Performance,68.0,1.0,69.0,Feature Problem,False
+2c6683ac-89e6-4e5b-9757-613958b6139d,I love this app because this app have the best filter the pics are looking so lovely,Feature Request,80.0,2.0,82.0,Other / General,False
+2cbc78f8-0609-4f2f-9d09-d0a0a0174a68,I always missed a call. This app doesn't notify me about messages and calls. The message won't sync to my other devices,Performance,89.0,1.0,90.0,Feature Problem,False
+8585ca9e-b76b-481e-a727-87cca91a0fc2,"Wont let me access my photos, says no camera roll access while it has access",Privacy / Security,80.0,4.0,84.0,Feature Problem,False
+7844ea7f-c245-4ee9-bc3a-e04e9f554241,"REMOVE THE NEW UPDATES feature Worst feature, Making everything clutter, Need option to hide that feature",Feature Problem,82.0,3.0,85.0,Feature Request,False
+7befd1a1-4af0-442a-a95b-c0946f99d1ae,does not send sms for code to phone immediately but can send recovery ticket faster than the code itself but also need 2 friends to send code to you so recovery will have a higher chance of succeeding. what is this? a lucky draw game? terrible terrible app.,Feature Problem,115.0,2.0,117.0,Account & Login,False
+d95d4c88-2135-418e-a45f-1bce5cf29e84,"Please remove that channels, It's getting complicated",Feature Problem,72.0,3.0,75.0,Feature Request,False
+9dac3d93-b3b7-4acc-962f-25cea0047b77,"How in the world does this app keep updating yet nothing improves, like what are you updating?",Performance,81.0,2.0,83.0,Other / General,False
+ef462d1c-bd7c-44c0-abe3-29b325731478,Seriously this much adds,Other / General,67.0,4.0,71.0,Feature Problem,False
+744ebf79-9b04-4bed-bcec-8df869e4cac3,Always not working from many days it seems connecting always,Bugs & Technical Issues,73.0,6.0,79.0,Performance,False
+a2592b30-448a-4325-816e-5bb7f51aeb64,"The most stupid app ever, i tried many times to install it and every time it says check your recent calls to verify the number, and it never calls.",Bugs & Technical Issues,94.0,6.0,100.0,Account & Login,False
+fc97a776-22cb-4fa4-93fe-b5b3aa961b9c,Watsapp is effective though there's no network it possible to communicate successfully...,Bugs & Technical Issues,77.0,5.0,82.0,Other / General,False
+fea78dbc-4a0e-4d2a-a734-c40b66513bfd,"Is there any way to delete the channels page or part of my whatsapp, I hate seeing all the channels down there and haven't found the part in settings to de activate it",Feature Problem,98.0,3.0,101.0,Feature Request,False
+45b07735-69a4-413d-a698-0820dff105db,"If i can give zero star then i will. New user needs someone who already has an account to verify. How ridiculous it is! So, there I'm, finding someone who can help me. He scanned my code, then on the next step to verify me, he couldn't do it because the ""ok"" button was unresponsive. Yeah, he wasn't lying, i was next to him & i tried it myself too. Broken app!",Bugs & Technical Issues,153.0,6.0,159.0,Account & Login,False
+6d124529-f68f-4456-a8c9-d862fd09db5a,Too many adds so irritating 😑😑,Other / General,71.0,3.0,74.0,Feature Problem,False
+265013a2-8444-4825-b188-291a015b6f93,I want to use whatsapp,Feature Request,68.0,3.0,71.0,Other / General,False
+e27d9b9f-afb6-44df-bb47-ad8b89e044c7,"Viber sucks. it simply blocks unused accounts, using the excuse that spam was allegedly sent from these accounts. I haven’t used viber for a long time, because of stupid advertising that couldn’t be hidden.",Other / General,105.0,3.0,108.0,Account & Login,False
+3f4d72ec-123d-4ae3-a82d-1a61dcf734e3,now how to mute stories?,Feature Problem,68.0,2.0,70.0,Feature Request,False
+37a3e29a-d749-494a-9e23-4c53cbf7f52d,Why I am getting too much ads??,Privacy / Security,70.0,3.0,73.0,Feature Problem,False
+810096e4-18ec-4fd6-86c0-b826f7137d90,Quite some time now the app has stopped sending notifications about texts and calls and I see them only if I log on manually. I noticed this happening to other users too,Bugs & Technical Issues,96.0,5.0,101.0,Feature Problem,False
+b7d854f9-2466-4787-a204-de6e6bb3b507,Can I receive new update on messenger I have no new messenger,Feature Problem,75.0,2.0,77.0,Feature Request,False
+1026e598-3f9d-423d-a527-9ab9b7ad500d,Unsend all msg see Update,Feature Problem,69.0,3.0,72.0,Feature Request,False
+7c55539b-e590-453d-b4e5-c61f136e20fe,A lot of annoying notifications and advertising,Other / General,70.0,4.0,74.0,Feature Problem,False
+86e68aa6-2acf-4446-8b60-fb5bf40b3a0a,Why i cant install this app,Account & Login,69.0,4.0,73.0,Bugs & Technical Issues,False
+6b6e3ec8-aa79-479c-8fc0-703dd8292961,Good filters,Feature Request,65.0,2.0,67.0,Other / General,False
+75933780-a987-435e-9a0d-3ecce2474749,It's very very awesome 👌 app and Very safe .According to me.,Other / General,78.0,3.0,81.0,Privacy / Security,False

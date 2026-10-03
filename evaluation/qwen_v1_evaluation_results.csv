@@ -1,0 +1,13 @@
+id,feedback,true_category,predicted_category,correct
+1,I cannot complete my payment at checkout.,Payment,Payment,True
+2,I forgot my password and cannot log in.,Account,Account,True
+3,The app is very slow when loading the home page.,Performance,Performance,True
+4,The app crashes every time I open the settings page.,Technical,Technical,True
+5,I love the new design and everything works well.,Other,Other,True
+6,I requested a refund but have not received it yet.,Payment,Payment,True
+7,My account is locked and I cannot access it.,Account,Account,True
+8,The app keeps showing an error message.,Technical,Technical,True
+9,Every time I try to finish my order the app sends me back to the cart.,Payment,Performance,False
+10,I enter the correct credentials but the app keeps rejecting me.,Account,Account,True
+11,Pages take forever to appear even on a fast connection.,Performance,Performance,True
+12,The app suddenly closes whenever I open my profile.,Technical,Technical,True

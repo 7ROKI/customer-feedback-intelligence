@@ -1,0 +1,4 @@
+severity,support,true_positive,false_positive,false_negative,precision,recall,f1
+High,40,36,10,4,0.7826,0.9,0.8372
+Medium,30,5,1,25,0.8333,0.1667,0.2778
+Low,80,79,19,1,0.8061,0.9875,0.8876

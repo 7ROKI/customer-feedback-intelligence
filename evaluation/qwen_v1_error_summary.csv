@@ -1,0 +1,18 @@
+true_issue_category,predicted_issue_category,count
+Account & Login,Bugs & Technical Issues,4
+Account & Login,Privacy / Security,2
+Account & Login,Feature Problem,1
+Account & Login,Other / General,1
+Bugs & Technical Issues,Account & Login,2
+Bugs & Technical Issues,Performance,1
+Feature Problem,Bugs & Technical Issues,3
+Feature Problem,Other / General,3
+Feature Problem,Performance,3
+Feature Problem,Privacy / Security,2
+Feature Request,Feature Problem,9
+Other / General,Performance,4
+Other / General,Feature Request,3
+Other / General,Bugs & Technical Issues,2
+Performance,Bugs & Technical Issues,1
+Privacy / Security,Other / General,2
+Privacy / Security,Performance,1

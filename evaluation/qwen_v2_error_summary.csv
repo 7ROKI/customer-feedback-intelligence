@@ -1,0 +1,12 @@
+true_issue_category,predicted_issue_category,count
+Account & Login,7. Other / General,1
+Account & Login,Feature Problem,1
+Bugs & Technical Issues,Feature Problem,2
+Bugs & Technical Issues,Performance,1
+Feature Problem,Other / General,3
+Feature Problem,Feature Request,2
+Performance,Feature Problem,1
+Privacy / Security,Other / General,2
+Privacy / Security,7. Other / General,1
+Privacy / Security,Feature Problem,1
+Privacy / Security,Performance,1
