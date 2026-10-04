@@ -1,3 +1,22 @@
+"""
+Build the final PM-facing decision-support report.
+
+Input:
+    data/ranked_product_issues.csv
+
+Output:
+    data/final_pm_issue_report.csv
+
+The report adds:
+- readable severity summaries
+- trend descriptions
+- why the issue matters
+- rule-based PM recommendations
+- recommended next steps
+- customer evidence
+
+PM recommendations are deterministic and do not use an LLM.
+"""
 import pandas as pd
 
 

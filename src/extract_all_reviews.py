@@ -1,3 +1,23 @@
+"""
+Extract structured product intelligence from cleaned customer reviews.
+
+Input:
+    data/cleaned_reviews.csv
+
+Output:
+    data/all_reviews_structured.csv
+
+For each review, Qwen extracts:
+- issue_category
+- specific_issue
+- sentiment
+- severity
+- has_specific_issue
+
+The script supports checkpoint/resume behaviour and records token usage.
+This module makes paid OpenRouter API calls.
+"""
+
 import os
 import json
 import time

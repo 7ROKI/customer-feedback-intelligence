@@ -1,3 +1,22 @@
+"""
+Cluster semantically similar product issues within each issue category.
+
+Inputs:
+    data/specific_issues_for_clustering.csv
+    data/specific_issue_embeddings.npy
+
+Output:
+    data/clustered_specific_issues.csv
+
+Method:
+- category-aware clustering
+- cosine distance
+- Agglomerative Clustering
+- complete linkage
+- distance threshold = 0.28
+
+The script also removes clearly generic issue descriptions before clustering.
+"""
 import pandas as pd
 import numpy as np
 

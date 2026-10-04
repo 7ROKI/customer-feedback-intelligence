@@ -1,3 +1,17 @@
+"""
+Generate BGE-M3 embeddings for actionable specific issues.
+
+Input:
+    data/all_reviews_structured.csv
+
+Outputs:
+    data/specific_issues_for_clustering.csv
+    data/specific_issue_embeddings.npy
+
+Only reviews marked as containing a specific actionable issue are embedded.
+BGE-M3 runs locally and does not make OpenRouter API calls.
+"""
+
 import pandas as pd
 import numpy as np
 from FlagEmbedding import BGEM3FlagModel

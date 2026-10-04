@@ -1,3 +1,16 @@
+"""
+Calculate recorded API cost and production cost scalability.
+
+The script uses measured token usage from formal evaluation
+and production runs to calculate:
+
+- cost per run
+- total recorded API cost
+- average production cost per review
+- approximate review capacity under a fixed $10 budget
+
+No API call is made in this module.
+"""
 # ============================================================
 # Cost Analysis
 # Qwen3 30B A3B Instruct 2507

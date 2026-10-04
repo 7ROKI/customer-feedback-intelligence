@@ -1,3 +1,22 @@
+"""
+Build ranked product issues from semantic clusters.
+
+Input:
+    data/clustered_specific_issues.csv
+
+Output:
+    data/ranked_product_issues.csv
+
+The module calculates:
+- issue counts
+- severity mix
+- deterministic priority score
+- three-day trend labels
+- representative issue names
+- customer evidence
+
+No LLM or external API call is made in this module.
+"""
 import pandas as pd
 
 
